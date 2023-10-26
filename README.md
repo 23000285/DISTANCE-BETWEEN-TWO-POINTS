@@ -30,3 +30,4 @@ print("{:.2f}".format(d))
 
 
 ### RESULT:
+Thus the python program to find the distance between two points is successfully executed.
